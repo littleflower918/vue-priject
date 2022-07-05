@@ -34,6 +34,7 @@
 export default {
   name: 'HelloWorld',
   props: {
+    //这个是引用的时候要传入的组件
     msg: String
   }
 }
